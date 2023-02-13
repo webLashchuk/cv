@@ -128,7 +128,7 @@ body {
     color: #ffffff;
     background: -o-linear-gradient(220deg, #567599, #1f2e4b);
     background: linear-gradient(230deg, #567599, #1f2e4b);
-    padding: 35px 0 25px;
+    padding: 35px 0 35px;
 }
 
 .hero__title {
