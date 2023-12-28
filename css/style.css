@@ -119,7 +119,7 @@ body {
 }
 
 .title {
-    font-size: 20px;
+    font-size: 28px;
     font-weight: 500;
     color: #c1b99a;
 }
@@ -234,7 +234,7 @@ body {
 
 .info__wrapper {
     border-bottom: 1px solid #dee2ed;
-    padding: 25px 0;
+    padding: 50px 0;
 }
 
 .info__inner {
@@ -322,7 +322,7 @@ body {
 }
 
 .portfolio {
-    padding: 25px 0 50px;
+    padding: 50px 0;
 }
 
 .portfolio__title {
